@@ -1,6 +1,10 @@
 # HandWrittenDigitRecognitionUsingNN
-60000条数据的大数据集因文件大小限制，无法上传，下载地址：链接：https://pan.baidu.com/s/1xeTa6V0UL55BtEE0YrBTiw 
+60000条数据的大数据集因文件大小限制，无法上传。
+
+提供百度云下载地址：链接：https://pan.baidu.com/s/1xeTa6V0UL55BtEE0YrBTiw 
+
 提取码：d5rs
+
 代码中使用的是100条训练数据，10条测试数据。载入数据时可换成上面下载的大数据集，还放入mnist文件夹下，代码中修改open路径即可。
 神经网络入门之手写体识别，使用三层神经网络，200个隐藏层节点，学习率为0.15，5轮的训练结果如下：
 -----------输出结果-----------
